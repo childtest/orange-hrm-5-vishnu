@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Smoke test"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1.547">
+  <properties />
+  
+  
+            <testcase name="verifyThatTheLogoDisplayOnHomePage" time="1.547" classname="com.orangehrmlive.demo.testsuite.LoginTest" />
+      
+</testsuite>
